@@ -116,7 +116,7 @@ number PI<X>::intdiv(number x, number y)
 {
 	const number maxbit = ~((number)-1>>1);
 	number a = 0;
-    number b = 0;
+	number b = 0;
 	int cnt = sizeof(number) * 8;
 
 	while (cnt--) {
