@@ -1,5 +1,5 @@
 # pi
-Calculation of pi to 100,000 decimals
+Calculation of pi to 10,000 decimals
 
 ## Usage
 
